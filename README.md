@@ -57,7 +57,5 @@ print("General Milton S'D")
 
 <br>
 
-## Discord-view
 
-<p><img align="center" src="https://discord.c99.nl/widget/theme-3/368352702549327873.png" alt="amiralimiltone" /></p>
 
