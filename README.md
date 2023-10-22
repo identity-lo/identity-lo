@@ -34,7 +34,7 @@
 from Iran.Tehran import Milton
   
 class Information(Milton):
-  def personality(firstname:str = "AmirAli" , lastname:str = "Marvani" , age:int = 19): 
+  def personality(firstname:str = "AmirAli" , lastname:str = "Marvani" , age:int = 23): 
     return firstname , lastname , age
   
 Say = Information.presonality()
